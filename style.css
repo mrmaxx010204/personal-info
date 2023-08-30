@@ -677,7 +677,9 @@ ul li {
 li i {
   margin-right: 20px;
 }
-
+#foot{
+  color: white;
+}
 .social-media {
   width: 100%;
   color: #fff;
